@@ -1,0 +1,12 @@
+.galeria{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.img-galeria{
+    width: 300px;
+    height: 300px;
+}
